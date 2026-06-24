@@ -83,15 +83,6 @@ git clone https://github.com/AngelMK1405/FUTURE_FS_03.git
 
 3. Ensure all required images are inside the images folder.
 
-Required images:
-- hero.jpg
-- trainer1.jpg
-- trainer2.jpg
-- trainer3.jpg
-- gallery1.jpg
-- gallery2.jpg
-- gallery3.jpg
-
 4. Open `index.html` in browser or run using Live Server.
 
 ---

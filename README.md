@@ -102,17 +102,10 @@ git clone https://github.com/AngelMK1405/FUTURE_FS_03.git
 ---
 
 ## Live Demo
-Add your Netlify link here.
-
-Example:
-https://apex-fitness-club.netlify.app
-
+https://scintillating-zuccutto-34552c.netlify.app/
 ---
 
 ## GitHub Repository
-Add your GitHub repo link here.
-
-
 https://github.com/AngelMK1405/FUTURE_FS_03
 
 ---

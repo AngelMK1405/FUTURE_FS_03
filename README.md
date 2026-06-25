@@ -102,10 +102,12 @@ git clone https://github.com/AngelMK1405/FUTURE_FS_03.git
 ---
 
 ## Live Demo
+
 https://scintillating-zuccutto-34552c.netlify.app/
 ---
 
 ## GitHub Repository
+
 https://github.com/AngelMK1405/FUTURE_FS_03
 
 ---
@@ -124,5 +126,5 @@ A strong online presence can significantly improve membership conversions and bu
 ---
 
 ## Author
-Angel Mary Kurian 
+**Angel Mary Kurian**
 Future Interns | Full Stack Web Development Intern
